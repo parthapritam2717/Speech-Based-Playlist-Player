@@ -1,0 +1,14 @@
+F:\SpeechClient\SpeechClient\bin\x64\Debug\SpeechClient.exe.config
+F:\SpeechClient\SpeechClient\bin\x64\Debug\jb.jpg
+F:\SpeechClient\SpeechClient\bin\x64\Debug\SpeechClient.exe
+F:\SpeechClient\SpeechClient\bin\x64\Debug\SpeechClient.pdb
+F:\SpeechClient\SpeechClient\obj\x64\Debug\MainWindow.baml
+F:\SpeechClient\SpeechClient\obj\x64\Debug\MainWindow.g.cs
+F:\SpeechClient\SpeechClient\obj\x64\Debug\App.g.cs
+F:\SpeechClient\SpeechClient\obj\x64\Debug\SpeechClient_Content.g.cs
+F:\SpeechClient\SpeechClient\obj\x64\Debug\SpeechClient_MarkupCompile.cache
+F:\SpeechClient\SpeechClient\obj\x64\Debug\SpeechClient.g.resources
+F:\SpeechClient\SpeechClient\obj\x64\Debug\SpeechClient.Properties.Resources.resources
+F:\SpeechClient\SpeechClient\obj\x64\Debug\SpeechClient.csproj.GenerateResource.Cache
+F:\SpeechClient\SpeechClient\obj\x64\Debug\SpeechClient.exe
+F:\SpeechClient\SpeechClient\obj\x64\Debug\SpeechClient.pdb

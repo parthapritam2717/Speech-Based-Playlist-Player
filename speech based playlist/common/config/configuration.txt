@@ -1,0 +1,15 @@
+codebook_size=32
+epsilon=.03
+source=E:\\common\\output\\universe.txt
+prefix=E:\\common\\input\\
+frame_size=320
+shift=80
+threshold=.12
+p=12
+ind_vector=E:\\common\\output\\individual_vector\\
+observation=E:\\common\\output\\observation\\
+testing=E:\\common\\output\\testing\\
+utter=30
+words=6
+
+

@@ -1,0 +1,6 @@
+ percentage match with word 0 =1.019313E-132
+ percentage match with word 1 =9.286852E-076
+ percentage match with word 2 =4.377193E-167
+ percentage match with word 3 =0.000000E+000
+ percentage match with word 4 =4.577995E-114
+ percentage match with word 5 =7.587120E-082

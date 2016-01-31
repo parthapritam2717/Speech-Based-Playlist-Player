@@ -1,0 +1,23 @@
+﻿<Window x:Class="SpeechClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Jukebox Speech Client" Height="480" Width="640" ResizeMode="NoResize" Background="White" >
+    <Grid Loaded="lodedfn">
+        <Grid.Background>
+            <ImageBrush ImageSource="jb.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Button x:Name="buttonrecog" Content="Recognize" HorizontalAlignment="Left" Margin="545,404,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1" Height="35"/>
+        <Button x:Name="buttontrain" Content="Train" HorizontalAlignment="Left" Margin="125,406,0,0" VerticalAlignment="Top" Width="98" Click="Button_Click" Height="33"/>
+        <TextBlock x:Name="text1" HorizontalAlignment="Left" Margin="0,352,0,0" TextWrapping="Wrap" Text="Please Press Recognize to start speech recognition                                                                             OR Train for Training The System  " TextAlignment="Center" FontSize="16" VerticalAlignment="top" Height="45" Width="634" FontWeight="Bold" Background="#FF646161" Foreground="White"/>
+        <Button x:Name="buttondetect" Content="Automatic Detection" HorizontalAlignment="Left" Height="34" Margin="414,405,0,0" VerticalAlignment="Top" Width="117"   Background="LightGray" Click="buttondetect_Click"/>
+        <Button x:Name="buttonaddrecord" Content="Add Recording" HorizontalAlignment="Left" VerticalAlignment="Top" Width="88" Margin="15,406,0,0" Height="33" Click="Button_Click_2"/>
+        <ComboBox x:Name="combox123" HorizontalAlignment="Left" VerticalAlignment="Top" Width="287" Margin="192,325,0,0" IsReadOnly="True" SelectionChanged="combochange">
+            <ListBoxItem Content="Asssamese"/>
+            <ListBoxItem Content="Bengali"/>
+            <ListBoxItem Content="English"/>
+            <ListBoxItem Content="Hindi"/>
+            <ListBoxItem Content="Marathi"/>
+            <ListBoxItem Content="Oriya"/>
+        </ComboBox>
+    </Grid>
+</Window>

@@ -1,0 +1,22 @@
+
+Roll No:154101026
+
+Name:Partha Pritam Mahanta
+
+Assignment: DIGIT RECONGISATION
+
+Visual Studio version:2013
+
+Steps to execute your code:
+-> we have two folder for input and output . In input folder the Universe is created and in the output folder the observation sequence is created.
+
+->open the project in visual studio 2013 and run the program. 
+
+->The pstar value is being printed in the screen and the identified digit for each utterence of the digit.
+
+->The individual models for each digit is saved in separate folders(A,B,PI).
+
+
+
+
+
